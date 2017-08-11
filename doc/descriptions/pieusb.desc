@@ -99,5 +99,11 @@
 :status :good
 :comment "Identical to Pacific Image Electronics PowerSlide 5000 scanner"
 
+:model "Reflecta MF5000"
+:interface "USB"
+:usbid "0x05e3" "0x0146"
+:status :untested
+:comment "Identical to Pacific Image Electronics PrimeFilm 120 Pro"
+
 ; :comment and :url specifiers are optional after :mfg, :model, :desc,
 ;  and at the top-level.
